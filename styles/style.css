@@ -39,7 +39,7 @@
   width: 388px;
   bottom: 30px;
   left: 64px;
-  line-height: 25px ;
+  line-height: 25px;
   font-size: 18px;
   z-index: 2;
 }
@@ -62,7 +62,7 @@
   position: absolute;
   height: 568px;
   width: 568px;
-  top: 0 ;
+  top: 0;
   right: 0;
   margin-top: 64px;
   z-index: 0;
@@ -293,7 +293,7 @@
 
 .footer__autor {
   position: absolute;
-  margin: 18px auto ;
+  margin: 18px auto;
   bottom: 0;
   left: 0;
   line-height: 25px;
@@ -321,7 +321,6 @@
 }
 
 .footer__column_social {
-  list-style-type: none;
   margin-left:auto;
   margin-top: 0;
 }
