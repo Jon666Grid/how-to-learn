@@ -71,14 +71,12 @@
 .description{
   margin-top: 100px;
   display: flex;
-  justify-content: center;
 }
 
 .two-columns {
   display: flex;
   justify-content: space-between;
-  min-height: 80%;
-  width: 175px;
+  margin: 0 auto;
   width: 80%;
 }
 
@@ -98,12 +96,12 @@
 .two-columns__paragraph {
   line-height: 34px;
   font-size: 24px;
+  margin-bottom: 30px;
 }
 
 .two-columns__main-text {
   width: 80%;
   min-width: 784px;
-  margin-bottom: 30px;
 }
 
 .section-title {
@@ -113,7 +111,6 @@
   font-size: 60px;
   font-weight: bold;
   margin-top: 100px;
-  
 }
 
 .section-subtitle {
