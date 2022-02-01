@@ -205,7 +205,7 @@
 }
 
 .kaufman {
-  background: black;
+  background: #1f1f1f;
   overflow: hidden;
   position: relative;
   z-index: 1;
@@ -215,7 +215,7 @@
   position: absolute;
   right: 0;
   z-index: -1;
-  margin-right: -210px;
+  right: -210px;
 }
 
 .section__title_theme_darks {
@@ -268,7 +268,7 @@
 }
 
 .footer {
-  background-color: black;
+  background-color: #1f1f1f;
   color: white;
   min-height: 350px;
   display: flex;
