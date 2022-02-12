@@ -1,8 +1,9 @@
-.card {
+.cards {
     display: flex;
     flex-wrap: wrap;
     justify-content: left;
     text-align: center;
     margin:auto;
     width: 920px;
+    list-style-type: none;
   }

@@ -1,8 +1,8 @@
-.card__item {
+.cards__item {
     margin-right: 100px;
     width: 236px;
   }
 
-  .card__item:nth-child(3n) {
+  .cards__item:nth-child(3n) {
     margin-right: 0;
   }
